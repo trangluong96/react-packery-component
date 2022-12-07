@@ -4,10 +4,10 @@
   "main": "./lib/index",
   "description": "A Packery component for React.js",
   "dependencies": {
-    "packery": "eiriklv/packery",
-    "imagesloaded": "eiriklv/imagesloaded"
+    "create-react-class": "^15.7.0",
+    "imagesloaded": "eiriklv/imagesloaded",
+    "packery": "eiriklv/packery"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
